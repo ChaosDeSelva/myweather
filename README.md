@@ -1,8 +1,6 @@
 # myweather
 Backend Service to wrapper forecast.io api
 
-FORECAST_API_KEY=39cade74a962adaf8181ac0db9a8748b
-
 You will need to create a .env file.
 
 This file will need the following line:
